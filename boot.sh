@@ -25,3 +25,5 @@ echo "------------ apt indicator-multiload ---------------"
 apt-get install indicator-multiload -y
 echo "------------ apt psensor ---------------"
 apt-get install psensor -y
+echo "------------ apt google input ---------------"
+sudo apt-get install fcitx fcitx-googlepinyin im-config
