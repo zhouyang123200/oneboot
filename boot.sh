@@ -27,3 +27,6 @@ echo "------------ apt psensor ---------------"
 apt-get install psensor -y
 echo "------------ apt google input ---------------"
 sudo apt-get install fcitx fcitx-googlepinyin im-config
+echo "------------ install wine ---------------"
+sudo apt install wine
+echo "------------ apt playonlinux ---------------"
